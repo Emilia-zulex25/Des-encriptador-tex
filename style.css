@@ -69,7 +69,7 @@ textarea{
 .mensaje{
     color: var(--color-terceario);
     background: var(--color-secundario);
-    background-image: url("/imagenes/niñadib.png");
+    background-image: url("imagenes/niñadib.png");
     background-position: bottom;
     background-size: contain;
     background-repeat: no-repeat;
